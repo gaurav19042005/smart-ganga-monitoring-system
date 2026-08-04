@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Flutter
+.dart_tool/
+.packages
+build/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Database
+*.db
+
+# Logs
+*.log
